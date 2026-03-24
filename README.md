@@ -28,6 +28,16 @@ Bu dinamik yapıdaki problemi çözmek için **Tavlama Benzetimi (Simulated Anne
 - **Veri Görselleştirme**: Matplotlib entegrasyonu sayesinde interaktif Gantt Şeması üzerinden işlerin hangi makinede, saat kaçta ve ne kadar sürede üretileceği detaylıca gösterilir.
 - **Bulut Veritabanı**: Çözüm sonuçları Back4App (Parse) altyapısı kullanılarak buluta yedeklenir.
 
+## 📸 Ekran Görüntüleri
+
+| Ana Yükleme Ekranı | Optimizasyon (Çalışma Tablosu) |
+|:---:|:---:|
+| ![Ana Ekran](main.png) | ![Arayüz](main_2.png) |
+
+| İnteraktif Gantt Şeması | İterasyon Gelişim Grafiği (Makespan) |
+|:---:|:---:|
+| ![Gantt Şeması](gantt.png) | ![İterasyon](iterations.png) |
+
 ## 📦 Kurulum ve Çalıştırma
 
 ### 1. Gereksinimleri Yükleyin

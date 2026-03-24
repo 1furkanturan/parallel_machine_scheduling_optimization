@@ -28,6 +28,16 @@ To solve this highly dynamic problem, we supported the **Simulated Annealing** a
 - **Data Visualization**: Through Matplotlib integration, the interactive Gantt Chart shows exactly which job will be produced on which machine, at what time, and for how long.
 - **Cloud Database**: Solution results are backed up to the cloud using the Back4App (Parse) infrastructure.
 
+## 📸 Screenshots
+
+| Main Input Screen | Optimization Running |
+|:---:|:---:|
+| ![Main Screen](main.png) | ![Optimization](main_2.png) |
+
+| Interactive Gantt Chart | Iteration Progress Graph (Makespan) |
+|:---:|:---:|
+| ![Gantt Chart](gantt.png) | ![Iterations](iterations.png) |
+
 ## 📦 Installation and Execution
 
 ### 1. Install Requirements
